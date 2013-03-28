@@ -1,4 +1,4 @@
-jDownloader-Remote-Control-API
+jDownloader Remote-Control API
 ==============================
 
-Experimentelles Projekt jDownloader fernzusteuern
+Experimentelles Projekt, aus 2011, um jDownloader fernzusteuern.
