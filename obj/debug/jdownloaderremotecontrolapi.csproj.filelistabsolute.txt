@@ -1,0 +1,5 @@
+C:\SVN\jDownloaderRemoteControlAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\jDownloaderRemoteControlAPI\bin\Debug\jDownloaderRemoteControlAPI.dll
+C:\SVN\jDownloaderRemoteControlAPI\bin\Debug\jDownloaderRemoteControlAPI.pdb
+C:\SVN\jDownloaderRemoteControlAPI\obj\Debug\jDownloaderRemoteControlAPI.dll
+C:\SVN\jDownloaderRemoteControlAPI\obj\Debug\jDownloaderRemoteControlAPI.pdb
